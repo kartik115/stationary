@@ -1,0 +1,9 @@
+Django==1.11
+Unipath==1.1
+PyMySQL==0.7.9
+djangorestframework
+django-filter
+djangorestframework-xml
+django-rest-swagger
+celery
+redis
